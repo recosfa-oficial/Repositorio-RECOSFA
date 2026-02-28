@@ -10,7 +10,7 @@ Repositorio institucional de noticias, eventos, charlas, videos y material de RE
 
 ## 📂 Navegación
 
-- 📰 [Noticias](noticias/README.md)
-- 🎤 [Charlas y eventos](charlas-eventos/README.md)
-- 🎥 [Videos](videos/README.md)
-- 📁 [Material](material/README.md)
+- 📰 [Noticias](Noticias/README.md)
+- 🎤 [Charlas y eventos](Charlas-Eventos/README.md)
+- 🎥 [Videos](Videos/README.md)
+- 📁 [Material](Material/README.md)
