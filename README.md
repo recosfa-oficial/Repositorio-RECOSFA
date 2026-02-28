@@ -1,5 +1,5 @@
 <h1>
-  <img src="Iconos/logo_recosfa.ai.png" width="40" style="vertical-align: middle; margin-right: 10px;">
+  <img src="Iconos/logo_recosfa.ai.png" width="90" style="vertical-align: middle; margin-right: 15px;">
   RECOSFA
 </h1>
 
